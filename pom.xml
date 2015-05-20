@@ -23,7 +23,7 @@
     </licenses>
 
     <properties>
-        <aws-java-sdk.version>1.4.7</aws-java-sdk.version>
+        <aws-java-sdk.version>1.9.36</aws-java-sdk.version>
     </properties>
 
     <dependencies>
